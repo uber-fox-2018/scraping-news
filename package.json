@@ -1,0 +1,28 @@
+{
+  "name": "scraping-news",
+  "version": "1.0.0",
+  "description": "scrapping news hacker",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uber-fox-2018/scraping-news.git"
+  },
+  "keywords": [
+    "scrapping",
+    "web"
+  ],
+  "author": "arisupriatna14",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uber-fox-2018/scraping-news/issues"
+  },
+  "homepage": "https://github.com/uber-fox-2018/scraping-news#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.87.0"
+  }
+}
